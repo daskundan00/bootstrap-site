@@ -1,0 +1,19 @@
+
+body {
+  padding-top: 70px;
+}
+
+.todo-item {
+  padding: 10px 15px;
+  border-radius: 6px;
+  background: var(--bs-secondary-bg);
+  border: 1px solid var(--bs-border-color);
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+
+.theme-btn {
+  border: none;
+  background: transparent;
+  font-size: 22px;
